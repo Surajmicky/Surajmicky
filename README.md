@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar  <img src="https://media-exp1.licdn.com/dms/image/C5603AQF3CRQZ_TLKqA/profile-displayphoto-shrink_400_400/0/1644818345139?e=1652918400&v=beta&t=GeYBrrHWcZH-6VkeE0kwLDIOfgUly3KTdgtzaiqmifg" width="50px"</h1>
+<h1 align="center">Hi 👋, I'm Suraj Kumar </h1>
 
 ##  🙋‍♂️ Who Am I?
 <h3 >I'm a passionate Full Stack Web Developer from India.</h3>
