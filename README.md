@@ -27,9 +27,7 @@
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
 </p> 
- <p align="center" >
-  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
-  </p>
+
 
 
 <br/>
