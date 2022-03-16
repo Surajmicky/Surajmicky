@@ -47,7 +47,7 @@
 
 <br/>
 <br/>
-<img alt="Suraj kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashifw11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"" />
+<img alt="Suraj kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surajmicky&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"" />
 
 <br/>
 <br/>
