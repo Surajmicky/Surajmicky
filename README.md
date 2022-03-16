@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar </h1>
-
+<img src="https://sagaratechnology.com/blog/wp-content/uploads/2021/05/How-to-Become-a-Web-Developer.jpg"/>  
 ##  🙋‍♂️ Who Am I?
 <h3 >I'm a passionate Full Stack Web Developer from Bihar.</h3>
 <p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
