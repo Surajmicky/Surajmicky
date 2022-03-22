@@ -6,7 +6,7 @@
  - 🌱 I’m currently learning *MERN Stack*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 <!-- - 🌱 I’m currently learning various new technologies. -->
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://suraj-kumar-portfolio.vercel.app)**
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://suraj-kumar-portfolio.netlify.app/)**
 <!--  - 📫 How to reach me *surajmicky10@gmail.com* -->
 - 💬 Ask me about anything, I am happy to help;
 
