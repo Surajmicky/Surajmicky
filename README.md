@@ -1,58 +1,54 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar </h1>
-<img align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  width="400" />  
-##  🙋‍♂️ Who Am I?
-<h3 >A diligent and enthusiastic full-stack developer efficient in MERN stack. A creative self-starter and quick learner inclined towards building outcome-driven products.Looking for a role as a developer to enhance technical skills while working on challenging projects.</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Suraj Kumar</span></h1>
+<h3 align="center">💻 Full-Stack Developer | MERN Stack Enthusiast 🚀</h3>
 
- - 🌱 I’m currently learning *MERN Stack*
-- 👯 I’m looking to collaborate on *OpenSource Projects*
-<!-- - 🌱 I’m currently learning various new technologies. -->
- - 👨‍💻 All of my projects are available at **[My Portfolio](https://suraj-kumar-portfolio.vercel.app/)**
-<!--  - 📫 How to reach me *surajmicky10@gmail.com* -->
-- 💬 Ask me about anything, I am happy to help;
-
-  ## 🚀 Languages and Tools:
-
-
- <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-  
-</p> 
-
-
-
-<br/>
-<p align="center"><img alt="Suraj Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmicky&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-       
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="420" alt="coding" />
 </p>
- 
 
-## 📊 My Github Stats
+---
 
-  <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajmicky&show_icons=true&locale=en&theme=highcontrast" alt="Surajmicky" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajmicky&&theme=highcontrast" alt="Surajmicky" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🙋‍♂️ Who Am I?
 
+✨ A diligent and enthusiastic **Full-Stack Developer** specializing in the **MERN stack**.  
+⚡ A creative self-starter and quick learner passionate about building **outcome-driven products**.  
+🎯 Seeking opportunities as a developer to **enhance technical skills** while solving challenging problems.  
 
-<br/>
-<br/>
+- 🌱 Currently learning **MERN Stack**  
+- 👯 Open to collaborate on **Open Source Projects**  
+- 👨‍💻 Explore my projects here → **[Portfolio](https://suraj-kumar-portfolio.vercel.app/)**  
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+- ⚡ Fun fact: I debug faster with **lo-fi beats 🎧**  
 
-<br/>
+---
 
-## Contact Me ☎️
-<p align="left">
+## 🚀 Tech Stack & Tools  
 
-<a href = "https://www.linkedin.com/in/suraj-kumar-b75883223"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on surajmicky10@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,postman,git" />
+</p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajmicky&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Surajmicky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajmicky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraj-kumar-b75883223">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="mailto:surajmicky10@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
 </p>
